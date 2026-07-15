@@ -1,0 +1,34 @@
+.TNB{
+    background-color: rgb(40, 42, 48);
+    color: rgb(4, 134, 255);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 3px;
+    width:fit-content;
+    border:solid, 5px, rgb(4, 134, 255);
+    border-radius:15px;
+    font-family:verdana;
+}
+body{
+    background-color:rgb(71, 78, 85);
+    font-family: tahoma;
+    color: white;
+}
+.days{
+    font-size:25px;
+}
+.muscles{
+    font-size:20px;
+    text-decoration:underline;
+}
+.workout{
+    border:solid, 5px, rgb(224, 64, 64);
+    border-radius: 10px;
+    padding:5px;
+    width:fit-content;
+    background-color: rgb(40, 42, 48);
+    color: rgb(231, 122, 122);
+    font-size:15px;
+    padding:10px;
+}
